@@ -71,8 +71,15 @@ when approached with curiosity, structure, and purpose.
 
 ## 📌 Related Projects
 
-🔗 **[webshell-upload-vuln](https://github.com/BarnOwl5/webshell-upload-vuln)**  
+> ⚠️ **Note about the report PDF**  
+> The internal links in the `webshell-upload-vuln` report PDF may not be clickable due to export limitations.  
+> However, you can access all related content and resources directly via the GitHub repository below: 
+
 A lab focused on webshell upload vulnerabilities and mitigation strategies.
+> 🔗 **[webshell-upload-vuln](https://github.com/BarnOwl5/webshell-upload-vuln)**
+
+
+
 
 ---
 
