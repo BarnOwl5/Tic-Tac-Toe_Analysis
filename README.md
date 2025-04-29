@@ -71,7 +71,7 @@ when approached with curiosity, structure, and purpose.
 
 ## 📌 Related Projects
 
-🔗 [webshell-upload-vuln](https://github.com/BarnOwl5/webshell-upload-vuln)  
+🔗 **[webshell-upload-vuln](https://github.com/BarnOwl5/webshell-upload-vuln)**  
 A lab focused on webshell upload vulnerabilities and mitigation strategies.
 
 ---
